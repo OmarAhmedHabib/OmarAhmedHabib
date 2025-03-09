@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarAhmedHabib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarAhmedHabib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=OmarAhmedHabib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
@@ -57,12 +57,10 @@
 
 ###
 
-<img align="left" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1naXVjdXNlbmppZXp6NmF5eWRpeHh1Mnh2NWo4dnczbmhwaXVqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"  />
+<img align="left" height="" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnR5bm1vdmJlMGs5MmR2b3gwdGp1N3pxeDhkcWVkYW11c2JsenFtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <img height="" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnR5bm1vdmJlMGs5MmR2b3gwdGp1N3pxeDhkcWVkYW11c2JsenFtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"  />
-</div>
+<img align="left" height="" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1naXVjdXNlbmppZXp6NmF5eWRpeHh1Mnh2NWo4dnczbmhwaXVqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"  />
 
 ###
